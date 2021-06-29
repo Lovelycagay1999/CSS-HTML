@@ -1,0 +1,378 @@
+body {
+	margin:0;
+}
+section {
+	margin:0;
+	background:white;
+	padding-left:60px;
+	padding-right:60px;
+	padding-top:20px;
+}
+
+.logos {
+	background:#047e97;
+	width:auto;
+	height:1000px;
+	
+}
+.row:: after {
+	content:"";
+	display:table;
+}
+.logo img{
+height: 40px;
+width:auto;
+padding-right:60px;
+float:left;
+	
+}
+.url a{
+margin:0;
+padding-top:15px;
+padding-right:40px;
+color:#ffffff;	
+display:flex;
+float:left;
+font-size:17px;
+
+}
+.call {
+	margin:0;
+	float:left;
+	margin-right:60px;
+	padding-left:320px;
+	
+}
+.call a{
+	margin:0;
+	color: white;
+	font-size:18px;
+}
+.apply {
+	color:#0f2c96;
+	float:right;
+	padding-right:70px;
+}
+button {
+	background-color:#ffe500;
+	border-top-left-radius:25px;  
+	border-top-right-radius:25px;  
+	border-bottom-right-radius:25px;  
+	border-bottom-left-radius:25px; 
+	margin-right:95px;
+	color:#4d26d3;
+	margin:0;
+}
+.key {
+margin:0;
+float:left;
+padding-top:35px;
+}
+.key img{
+	height:450px;
+	width:auto;
+	margin:0;
+}
+.carfinance{
+	color:white;
+    font-size:60px;
+	padding-right:400px;
+	padding-top:100px;
+}
+.rate p{
+	color:#ffffff;
+	font-size:20px;
+}
+.apply2{
+	padding-bottom:150px;
+}
+.grid-container{
+	display:grid;
+grid-template-columns:auto auto auto;
+}
+.grid-item{
+	font-size:15px;
+	text-align:center;
+	color:white;
+	padding-left:90px;
+}
+.some{
+	font-size:30px;
+	color:white;
+	font-family:Arial;
+}
+.some p{
+	margin:0;
+	padding-left: 480px;
+	padding-top:50px;
+}
+.sponsors img{
+	height:60px;
+	width:auto;
+	padding-left:250px;
+	padding-top: 40px;
+}
+.feedback p{
+	padding-left: 480px;
+	margin-top:0;
+	margin-bottom:0;
+}
+.feedback{
+	font-size:50px;
+	color:#047e97;
+	padding-top:130px;
+}
+.dont p{
+	font-size:35px;
+	color:#8265cf;
+	padding-left:400px;
+	margin-top:0;
+	margin-bottom:0;
+}
+.grid-container2{
+	display:grid;
+grid-template-columns:auto auto auto;
+padding:10px;
+padding-left:100px;
+}
+.grid-item1{
+	font-size:11px;
+	text-align:center;
+	color:black;
+	padding-top:80px;
+}
+.grid-container3{
+	display:grid;
+grid-template-columns:auto auto auto;
+}
+.grid-item2{
+	padding:10px;
+	font-size:11px;
+	text-align:center;
+	color:#9474d6;
+	font-family:Arial;
+	
+}
+.Finance p{
+	color:#027a93;
+    font-size:60px;
+	padding-left: 420px;
+}
+.Finance{
+	margin:0;
+}
+.grid-container4{
+	display:grid;
+grid-template-columns:auto auto auto;
+}
+.grid-item3{
+	font-size:18px;
+	text-align:center;
+	color:#1a859c;
+}
+.grid-container5{
+	display:grid;
+grid-template-columns:auto auto auto;
+}
+.grid-item4{
+	font-size:13px;
+	text-align:center;
+	color:#black;
+	font-family:Arial;
+}
+.GetmyRate button{
+	margin-left:620px;
+	margin-top:50px;
+}
+section {
+	margin:0;
+	padding-left:60px;
+	padding-right:60px;
+	padding-top:20px;
+}
+.GetmyRate{
+	padding-bottom:50px;
+}
+.grey {
+	background:#f4f4f4;
+	width:auto;
+	height:900px;
+	padding:0;
+}
+.how p{
+	color:#007892;
+	font-size: 60px;
+	margin:0;
+}
+.how{
+	padding-left:470px;
+	padding-top:100px;
+}
+.ways p{
+	color:#7347cc;
+	font-size:40px;
+	margin:0;
+}
+.ways{
+	padding-left:400px;
+}
+.fidomakes p{
+	color:#black;
+	font-size:17px;
+	margin:0;
+}
+.fidomakes{
+	padding-left:370px;
+	padding-top:30px;
+}
+.center p{
+	color:#black;
+	font-size:17px;
+	margin:0;
+}
+.center{
+	padding-left:470px;
+	padding-top:0;
+}
+.grid-container6{
+	display:grid;
+grid-template-columns:auto auto auto;
+padding-top:35px;
+}
+.grid-item5{
+	font-size:13px;
+	text-align:center;
+	color:#00728d;
+	margin:2px;
+	font-family:Arial;
+}
+.grid-container7{
+	display:grid;
+grid-template-columns:auto auto auto;
+}
+.grid-item6{
+	font-size:11px;
+	text-align:center;
+	color:#black;
+	font-family:Arial;
+}
+.grid-container8{
+	display:grid;
+grid-template-columns:auto auto auto;
+padding-top:35px;
+}
+.grid-item7{
+	font-size:13px;
+	text-align:center;
+	color:#00728d;
+	margin:2px;
+	font-family:Arial;
+}
+.grid-container9{
+	display:grid;
+grid-template-columns:auto auto auto;
+}
+.grid-item8{
+	font-size:11px;
+	text-align:center;
+	color:#black;
+	font-family:Arial;
+}
+.last p{
+	color:black;
+	font-size:10px;
+	margin:0;
+}
+.last{
+	padding-left:420px;
+	padding-top:100px;
+}
+.lastbody {
+margin:0;
+float:left;
+padding-top:150px;
+}
+.lastbody img{
+	height:430px;
+	width:auto;
+	margin:0;
+}
+.Fetchyour{
+	color:#0b809a;
+    font-size:50px;
+	padding-top:230px;
+}
+.contacts-section .form .input_field {
+padding-bottom:15px;
+padding-left:15px;
+padding-right:10px;
+}
+.contacts-section .form .input_field .input {
+width:250px;
+padding:10px 15px;
+border: 3px solid lightblue;
+font-size: 15px;
+font-weight:800;
+border-radius: 25px;
+align-items:center;
+}
+.contacts-section .container2{
+padding-top:50px;
+padding-left:20px;
+}
+.contacts-section .text1 {
+font-size:15px;
+font-weight:600;
+color:#858688;
+}
+.contacts-section .btn button{
+padding: 15px 25px;
+font-size: 15px;
+font-weight:600;
+border: none;
+background:#ffe500;
+color:#6847c5;
+border-radius: 25px;
+}
+.contacts-section .btn {
+padding-top: 30px;
+}
+.btn{
+padding-bottom:175px;
+}
+.blue {
+	background:#047e97;
+	width:auto;
+	height:350px;
+}
+.logofooter img{
+height: 40px;
+width:auto;
+padding-left:60px;
+float:left;
+padding-top:0;
+}
+.grid-container{
+	display:grid;
+grid-template-columns:auto auto auto;
+padding-top:90px;
+padding-right:300px;
+}
+.grid-item{
+	text-align:center;
+	margin:2px;
+}
+.grid-item h1{
+	color:#white;
+	font-size:15px;
+	font-family:Arial;
+}
+.grid-item p{
+	color:#white;
+	font-size:13px;
+	font-family:Arial;
+}
+.last a{
+	color:yellow;
+	font-size:12px;
+}
